@@ -1,0 +1,12 @@
+{
+  "domain": "steam_dashboard",
+  "name": "Steam Dashboard",
+  "version": "1.0.0",
+  "documentation": "https://github.com/M4RC-XX/homeassistant_steam_dashboard",
+  "issue_tracker": "https://github.com/M4RC-XX/homeassistant_steam_dashboard/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@M4RC-XX"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

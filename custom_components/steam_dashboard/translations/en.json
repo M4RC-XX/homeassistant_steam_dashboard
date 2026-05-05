@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Steam Dashboard",
+        "description": "Please enter your 64-Bit Steam ID and your Web API Key.\n\n[You can create a Steam API Key here](https://steamcommunity.com/dev/apikey)\n\nTip: You can use tools like steamid.io to find your Steam ID64.",
+        "data": {
+          "steam_id": "Steam ID (64-Bit)",
+          "api_key": "Steam Web API Key"
+        }
+      }
+    },
+    "error": {
+      "invalid_steam_id": "The Steam ID must consist of exactly 17 digits.",
+      "cannot_connect": "Failed to connect to Steam.",
+      "invalid_auth": "Invalid API Key.",
+      "unknown": "An unexpected error occurred."
+    },
+    "abort": {
+      "already_configured": "This Steam profile is already configured."
+    }
+  }
+}
