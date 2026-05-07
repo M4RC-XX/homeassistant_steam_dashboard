@@ -32,7 +32,9 @@ To use this integration, you need two things: your **Steam ID64** and a free **S
 
 ---
 
-## 📦 Installation via HACS
+## 📦 Installation via [HACS](https://hacs.xyz/)
+
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=M4RC-XX&repository=homeassistant_steam_dashboard&category=integration" target="_blank"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
 
 1. Open Home Assistant and navigate to **HACS**.
 2. Click the three dots in the top right corner and select **Custom repositories**.
